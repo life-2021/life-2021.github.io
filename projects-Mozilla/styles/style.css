@@ -1,0 +1,32 @@
+html {
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    background-color: #e0ffff;
+  }
+body{
+    width: 600px;
+    /* margin 外边距 */
+    margin: 0 auto;
+    background-color: #ff9500;
+    /* padding 内边距 */
+    padding:  0 20px 20px 20px ;
+    /* border 边框 */
+    border: 5px solidblack;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    /* margin 外边距 */
+    margin: 10px;
+    text-shadow: 3px 3px 1px #696969;
+}
+p,li{
+    /* line-height 行高 */
+    line-height:1.5 ;
+    /*letter-spacing  字间距 */
+    letter-spacing: 1px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
